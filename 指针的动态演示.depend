@@ -1,0 +1,1968 @@
+# depslib dependency file v1.0
+1404295058 source:e:\项目\指针的动态演示\main.cpp
+	<time.h>
+	"basic.h"
+
+1403658693 e:\项目\指针的动态演示\basic.h
+	"graphics.h"
+	"basic.cpp"
+	"data_definition.h"
+	"menu.cpp"
+
+1404691014 e:\项目\指针的动态演示\basic.cpp
+	"basic.h"
+
+1407503011 e:\项目\指针的动态演示\data_definition.h
+
+1407752811 e:\项目\指针的动态演示\code\show_1_2.cpp
+	<stdio.h>
+
+1411267572 e:\项目\指针的动态演示\code\show_1_3.cpp
+	<stdio.h>
+
+1404205278 e:\项目\指针的动态演示\code\show_1_4.cpp
+	<stdio.h>
+
+1400425240 source:g:\指针的动态演示\main.cpp
+	"basic.h"
+	"code\show_1_2.cpp"
+	"code\show_1_3.cpp"
+	"code\show_1_4.cpp"
+
+1400042948 g:\指针的动态演示\basic.h
+	"basic.cpp"
+	"graphics.h"
+	"data_definition.h"
+
+1400401244 g:\指针的动态演示\basic.cpp
+	<graphics.h>
+
+1400031426 g:\指针的动态演示\data_definition.h
+
+1400043390 g:\指针的动态演示\code\show_1_2.cpp
+	<stdio.h>
+
+1400499808 g:\指针的动态演示\code\show_1_3.cpp
+	<stdio.h>
+	<string.h>
+
+1400424828 g:\指针的动态演示\code\show_1_4.cpp
+	<stdio.h>
+	<string.h>
+
+1306412923 source:d:\指针的动态演示\main.cpp
+	<time.h>
+	"basic.h"
+
+1400775364 d:\指针的动态演示\basic.h
+	"graphics.h"
+	"basic.cpp"
+	"data_definition.h"
+	"menu.cpp"
+
+1400775500 d:\指针的动态演示\basic.cpp
+	"basic.h"
+
+1400031426 d:\指针的动态演示\data_definition.h
+
+1400043390 d:\指针的动态演示\code\show_1_2.cpp
+	<stdio.h>
+
+1400500165 d:\指针的动态演示\code\show_1_3.cpp
+	<stdio.h>
+	<string.h>
+
+1400500297 d:\指针的动态演示\code\show_1_4.cpp
+	<stdio.h>
+	<string.h>
+
+1411267700 e:\项目\指针的动态演示\menu.cpp
+	<stdio.h>
+	"code\open_1_1.cpp"
+	"code\open_1_2.cpp"
+	"code\open_1_3.cpp"
+	"code\open_1_4.cpp"
+	"code\open_1_5.cpp"
+	"code\open_1_6.cpp"
+	"code\open_2_1.cpp"
+	"code\open_2_2.cpp"
+	"code\open_2_3.cpp"
+	"code\open_2_5.cpp"
+	"code\open_2_6.cpp"
+	"code\open_3_1.cpp"
+	"code\open_3_3.cpp"
+	"code\open_3_4.cpp"
+	"code\open_3_5.cpp"
+	"code\open_3_6.cpp"
+	"code\open_3_7.cpp"
+	"code\open_3_8.cpp"
+	"code\open_4_1.cpp"
+	"code\open_4_2.cpp"
+	"code\open_4_3.cpp"
+	"code\open_4_5.cpp"
+	"code\open_4_6.cpp"
+	"code\open_4_7.cpp"
+
+1408071863 e:\项目\指针的动态演示\code\show_3_1.cpp
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1400773756 e:\项目\指针的动态演示\code\show_3_2.cpp
+	<stdio.h>
+	<string.h>
+
+1404310985 e:\项目\指针的动态演示\code\show_1_1.cpp
+	<stdio.h>
+
+1400827108 source:h:\指针的动态演示\main.cpp
+	"basic.h"
+
+1400775364 h:\指针的动态演示\basic.h
+	"graphics.h"
+	"basic.cpp"
+	"data_definition.h"
+	"menu.cpp"
+
+1400775500 h:\指针的动态演示\basic.cpp
+	"basic.h"
+
+1400031426 h:\指针的动态演示\data_definition.h
+
+1306410144 h:\指针的动态演示\menu.cpp
+	<stdio.h>
+	"code\show_1_1.cpp"
+	"code\show_1_2.cpp"
+	"code\show_3_1.cpp"
+	"code\show_3_2.cpp"
+
+1400828354 h:\指针的动态演示\code\show_1_1.cpp
+	<stdio.h>
+
+1400043390 h:\指针的动态演示\code\show_1_2.cpp
+	<stdio.h>
+
+1400773758 h:\指针的动态演示\code\show_3_1.cpp
+	<stdio.h>
+	<string.h>
+
+1400773756 h:\指针的动态演示\code\show_3_2.cpp
+	<stdio.h>
+	<string.h>
+
+1306413354 d:\指针的动态演示\menu.cpp
+	<stdio.h>
+	"code\show_1_1.cpp"
+	"code\show_1_2.cpp"
+	"code\show_3_1.cpp"
+	"code\show_3_2.cpp"
+	"code\test_3_2.cpp"
+
+1400828354 d:\指针的动态演示\code\show_1_1.cpp
+	<stdio.h>
+
+1400773758 d:\指针的动态演示\code\show_3_1.cpp
+	<stdio.h>
+	<string.h>
+
+1400773756 d:\指针的动态演示\code\show_3_2.cpp
+	<stdio.h>
+	<string.h>
+
+1306413911 d:\指针的动态演示\code\test_3_2.cpp
+	<stdio.h>
+	<string.h>
+
+1401322937 e:\项目\指针的动态演示\code\test_3_2.cpp
+	<stdio.h>
+	<string.h>
+
+1404433812 e:\项目\指针的动态演示\code\show_2_1.cpp
+	<graphics.h>
+
+1404082906 e:\项目\指针的动态演示\code\open_3_4.cpp
+	"show_3_4_1.cpp"
+	"show_3_4_2.cpp"
+	"test_3_4.cpp"
+
+1404081861 e:\项目\指针的动态演示\code\show_3_4_1.cpp
+	<stdio.h>
+	<string.h>
+
+1404081868 e:\项目\指针的动态演示\code\show_3_4_2.cpp
+	<stdio.h>
+	<string.h>
+
+1404081875 e:\项目\指针的动态演示\code\test_3_4.cpp
+	<stdio.h>
+	<string.h>
+
+1403220202 source:c:\users\hello\desktop\指针的动态演示\main.cpp
+	<time.h>
+	"basic.h"
+
+1403658693 c:\users\hello\desktop\指针的动态演示\basic.h
+	"graphics.h"
+	"basic.cpp"
+	"data_definition.h"
+	"menu.cpp"
+
+1403658678 c:\users\hello\desktop\指针的动态演示\basic.cpp
+	"basic.h"
+
+1403658635 c:\users\hello\desktop\指针的动态演示\data_definition.h
+
+1403658857 c:\users\hello\desktop\指针的动态演示\menu.cpp
+	<stdio.h>
+	"code\show_1_1.cpp"
+	"code\show_1_2.cpp"
+	"code\show_2_1.cpp"
+	"code\open_3_4.cpp"
+
+1400828354 c:\users\hello\desktop\指针的动态演示\code\show_1_1.cpp
+	<stdio.h>
+
+1400043390 c:\users\hello\desktop\指针的动态演示\code\show_1_2.cpp
+	<stdio.h>
+
+1401322535 c:\users\hello\desktop\指针的动态演示\code\show_2_1.cpp
+	<stdio.h>
+
+1403221185 c:\users\hello\desktop\指针的动态演示\code\open_3_4.cpp
+	"show_3_4_1.cpp"
+	"show_3_4_2.cpp"
+	"test_3_4.cpp"
+
+1403195401 c:\users\hello\desktop\指针的动态演示\code\show_3_4_1.cpp
+	<stdio.h>
+	<string.h>
+
+1403195457 c:\users\hello\desktop\指针的动态演示\code\show_3_4_2.cpp
+	<stdio.h>
+	<string.h>
+
+1403220401 c:\users\hello\desktop\指针的动态演示\code\test_3_4.cpp
+	<stdio.h>
+	<string.h>
+
+1404315535 e:\项目\指针的动态演示\code\open_1_1.cpp
+	"show_1_1.cpp"
+	"test_1_1.cpp"
+
+1404789996 e:\项目\指针的动态演示\code\open_1_4.cpp
+	"show_1_4.cpp"
+	"test_1_4.cpp"
+
+1404790372 e:\项目\指针的动态演示\code\open_2_5.cpp
+	"show_2_5.cpp"
+	"test_2_5.cpp"
+
+1404596002 e:\项目\指针的动态演示\code\show_2_5.cpp
+	<stdio.h>
+
+1404790484 e:\项目\指针的动态演示\code\open_4_1.cpp
+	"show_4_1.cpp"
+	"test_4_1.cpp"
+
+1404700011 e:\项目\指针的动态演示\code\show_4_1.cpp
+	<stdio.h>
+
+1404638467 e:\项目\指针的动态演示\code\open_3_5.cpp
+	"show_3_5.cpp"
+
+1404638540 e:\项目\指针的动态演示\code\show_3_5.cpp
+	<stdio.h>
+	<string.h>
+
+1404315589 e:\项目\指针的动态演示\code\test_1_1.cpp
+	<stdio.h>
+
+1404789417 e:\项目\指针的动态演示\code\open_2_1.cpp
+	"show_2_1.cpp"
+	"test_2_1.cpp"
+
+1404316131 e:\项目\指针的动态演示\code\test_2_1.cpp
+
+1407754230 e:\项目\指针的动态演示\code\open_3_3.cpp
+	"show_3_3.cpp"
+	"test_3_3.cpp"
+
+1404654624 e:\项目\指针的动态演示\code\show_3_3.cpp
+	<graphics.h>
+
+1404789823 e:\项目\指针的动态演示\code\test_3_3.cpp
+
+1404790691 e:\项目\指针的动态演示\code\test_1_4.cpp
+	<stdio.h>
+
+1404790681 e:\项目\指针的动态演示\code\test_2_5.cpp
+	<stdio.h>
+
+1404790660 e:\项目\指针的动态演示\code\test_4_1.cpp
+	<stdio.h>
+
+1407754343 e:\项目\指针的动态演示\code\open_4_7.cpp
+	"show_4_7.cpp"
+	"test_4_7.cpp"
+
+1405500057 e:\项目\指针的动态演示\code\show_4_7.cpp
+
+1405500147 e:\项目\指针的动态演示\code\test_4_7.cpp
+
+1407503370 e:\项目\指针的动态演示\code\open_2_6.cpp
+	"show_2_6.cpp"
+	"test_2_6.cpp"
+
+1407503347 e:\项目\指针的动态演示\code\show_2_6.cpp
+	<stdio.h>
+
+1407503804 e:\项目\指针的动态演示\code\test_2_6.cpp
+
+1407752805 e:\项目\指针的动态演示\code\open_1_2.cpp
+	"show_1_2.cpp"
+	"test_1_2.cpp"
+
+1407752839 e:\项目\指针的动态演示\code\test_1_2.cpp
+	<stdio.h>
+
+1407752940 e:\项目\指针的动态演示\code\open_2_2.cpp
+	"show_2_2.cpp"
+	"test_2_2.cpp"
+
+1407753030 e:\项目\指针的动态演示\code\show_2_2.cpp
+	<stdio.h>
+
+1407752961 e:\项目\指针的动态演示\code\test_2_2.cpp
+	<stdio.h>
+
+1407754210 e:\项目\指针的动态演示\code\open_3_6.cpp
+	"show_3_6.cpp"
+	"test_3_6.cpp"
+
+1407753177 e:\项目\指针的动态演示\code\show_3_6.cpp
+	<stdio.h>
+
+1407753173 e:\项目\指针的动态演示\code\test_3_6.cpp
+	<stdio.h>
+
+1407753283 e:\项目\指针的动态演示\code\open_4_5.cpp
+	"show_4_5.cpp"
+	"test_4_5.cpp"
+
+1407753401 e:\项目\指针的动态演示\code\show_4_5.cpp
+	<stdio.h>
+
+1407753409 e:\项目\指针的动态演示\code\test_4_5.cpp
+	<stdio.h>
+
+1407756674 e:\项目\指针的动态演示\code\open_1_6.cpp
+	"show_1_6.cpp"
+	"test_1_6.cpp"
+
+1407742874 e:\项目\指针的动态演示\code\show_1_6.cpp
+	<stdio.h>
+
+1407756891 e:\项目\指针的动态演示\code\test_1_6.cpp
+	<stdio.h>
+
+1407800238 e:\项目\指针的动态演示\code\open_1_5.cpp
+	"show_1_5.cpp"
+	"test_1_5.cpp"
+
+1408114562 e:\项目\指针的动态演示\code\show_1_5.cpp
+
+1408114598 e:\项目\指针的动态演示\code\test_1_5.cpp
+
+1407799099 e:\项目\指针的动态演示\code\open_4_2.cpp
+	"show_4_2.cpp"
+	"test_4_2.cpp"
+
+1408031800 e:\项目\指针的动态演示\code\show_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+
+1408114811 e:\项目\指针的动态演示\code\test_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+
+1408070876 e:\项目\指针的动态演示\code\open_3_1.cpp
+	"show_3_1.cpp"
+	"test_3_1.cpp"
+
+1408071882 e:\项目\指针的动态演示\code\test_3_1.cpp
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1408201228 e:\项目\指针的动态演示\code\open_3_8.cpp
+	"show_3_8_1.cpp"
+	"show_3_8_2.cpp"
+	"show_3_8_3.cpp"
+	"test_3_8.cpp"
+
+1408083050 e:\项目\指针的动态演示\code\show_3_8_1.cpp
+	<stdio.h>
+	<stdio.h>
+
+1408083107 e:\项目\指针的动态演示\code\show_3_8_2.cpp
+	<stdio.h>
+	<stdio.h>
+
+1408082905 e:\项目\指针的动态演示\code\show_3_8_3.cpp
+	<stdio.h>
+	<stdio.h>
+
+1408084868 e:\项目\指针的动态演示\code\test_3_8.cpp
+	<stdio.h>
+	<stdio.h>
+
+1408201915 e:\项目\指针的动态演示\code\open_4_3.cpp
+	"show_4_3.cpp"
+	"test_4_3.cpp"
+
+1408175738 e:\项目\指针的动态演示\code\show_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+
+1408201964 e:\项目\指针的动态演示\code\test_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+
+1408547220 e:\项目\指针的动态演示\code\open_2_3.cpp
+	"show_2_3.cpp"
+	"test_2_3.cpp"
+
+1408547008 e:\项目\指针的动态演示\code\show_2_3.cpp
+	<stdio.h>
+
+1408547006 e:\项目\指针的动态演示\code\test_2_3.cpp
+	<stdio.h>
+
+1408547222 e:\项目\指针的动态演示\code\open_3_7.cpp
+	"show_3_7.cpp"
+	"test_3_7.cpp"
+
+1408547007 e:\项目\指针的动态演示\code\show_3_7.cpp
+	<stdio.h>
+
+1408547003 e:\项目\指针的动态演示\code\test_3_7.cpp
+	<stdio.h>
+
+1409669625 e:\项目\指针的动态演示\code\open_4_6.cpp
+	"show_4_6.cpp"
+	"test_4_6.cpp"
+
+1409669568 e:\项目\指针的动态演示\code\show_4_6.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1409669643 e:\项目\指针的动态演示\code\test_4_6.cpp
+	<stdio.h>
+
+1411267621 e:\项目\指针的动态演示\code\open_1_3.cpp
+	"show_1_3.cpp"
+	"test_1_3.cpp"
+
+1411267577 e:\项目\指针的动态演示\code\test_1_3.cpp
+	<stdio.h>
+
+1415289139 source:e:\项目\指针的动态演示 - 副本\main.cpp
+	<time.h>
+	"code.h"
+
+1415289556 e:\项目\指针的动态演示 - 副本\basic.h
+	"graphics.h"
+	"code.h"
+	"data_definition.h"
+
+1415282292 e:\项目\指针的动态演示 - 副本\basic.cpp
+	"basic.h"
+
+1407503011 e:\项目\指针的动态演示 - 副本\data_definition.h
+
+1415288993 e:\项目\指针的动态演示 - 副本\menu.cpp
+	<stdio.h>
+	"code.h"
+
+1404315535 e:\项目\指针的动态演示 - 副本\code\open_1_1.cpp
+	"show_1_1.cpp"
+	"test_1_1.cpp"
+
+1404310985 e:\项目\指针的动态演示 - 副本\code\show_1_1.cpp
+	<stdio.h>
+
+1404315589 e:\项目\指针的动态演示 - 副本\code\test_1_1.cpp
+	<stdio.h>
+
+1407752805 e:\项目\指针的动态演示 - 副本\code\open_1_2.cpp
+	"show_1_2.cpp"
+	"test_1_2.cpp"
+
+1407752811 e:\项目\指针的动态演示 - 副本\code\show_1_2.cpp
+	<stdio.h>
+
+1407752839 e:\项目\指针的动态演示 - 副本\code\test_1_2.cpp
+	<stdio.h>
+
+1411267621 e:\项目\指针的动态演示 - 副本\code\open_1_3.cpp
+	"show_1_3.cpp"
+	"test_1_3.cpp"
+
+1411267572 e:\项目\指针的动态演示 - 副本\code\show_1_3.cpp
+	<stdio.h>
+
+1411267577 e:\项目\指针的动态演示 - 副本\code\test_1_3.cpp
+	<stdio.h>
+
+1404789996 e:\项目\指针的动态演示 - 副本\code\open_1_4.cpp
+	"show_1_4.cpp"
+	"test_1_4.cpp"
+
+1404205278 e:\项目\指针的动态演示 - 副本\code\show_1_4.cpp
+	<stdio.h>
+
+1404790691 e:\项目\指针的动态演示 - 副本\code\test_1_4.cpp
+	<stdio.h>
+
+1407800238 e:\项目\指针的动态演示 - 副本\code\open_1_5.cpp
+	"show_1_5.cpp"
+	"test_1_5.cpp"
+
+1408114562 e:\项目\指针的动态演示 - 副本\code\show_1_5.cpp
+
+1408114598 e:\项目\指针的动态演示 - 副本\code\test_1_5.cpp
+
+1407756674 e:\项目\指针的动态演示 - 副本\code\open_1_6.cpp
+	"show_1_6.cpp"
+	"test_1_6.cpp"
+
+1407742874 e:\项目\指针的动态演示 - 副本\code\show_1_6.cpp
+	<stdio.h>
+
+1407756891 e:\项目\指针的动态演示 - 副本\code\test_1_6.cpp
+	<stdio.h>
+
+1404789417 e:\项目\指针的动态演示 - 副本\code\open_2_1.cpp
+	"show_2_1.cpp"
+	"test_2_1.cpp"
+
+1404433812 e:\项目\指针的动态演示 - 副本\code\show_2_1.cpp
+	<graphics.h>
+
+1404316131 e:\项目\指针的动态演示 - 副本\code\test_2_1.cpp
+
+1407752940 e:\项目\指针的动态演示 - 副本\code\open_2_2.cpp
+	"show_2_2.cpp"
+	"test_2_2.cpp"
+
+1407753030 e:\项目\指针的动态演示 - 副本\code\show_2_2.cpp
+	<stdio.h>
+
+1407752961 e:\项目\指针的动态演示 - 副本\code\test_2_2.cpp
+	<stdio.h>
+
+1408547220 e:\项目\指针的动态演示 - 副本\code\open_2_3.cpp
+	"show_2_3.cpp"
+	"test_2_3.cpp"
+
+1408547008 e:\项目\指针的动态演示 - 副本\code\show_2_3.cpp
+	<stdio.h>
+
+1408547006 e:\项目\指针的动态演示 - 副本\code\test_2_3.cpp
+	<stdio.h>
+
+1404790372 e:\项目\指针的动态演示 - 副本\code\open_2_5.cpp
+	"show_2_5.cpp"
+	"test_2_5.cpp"
+
+1404596002 e:\项目\指针的动态演示 - 副本\code\show_2_5.cpp
+	<stdio.h>
+
+1404790681 e:\项目\指针的动态演示 - 副本\code\test_2_5.cpp
+	<stdio.h>
+
+1407503370 e:\项目\指针的动态演示 - 副本\code\open_2_6.cpp
+	"show_2_6.cpp"
+	"test_2_6.cpp"
+
+1407503347 e:\项目\指针的动态演示 - 副本\code\show_2_6.cpp
+	<stdio.h>
+
+1407503804 e:\项目\指针的动态演示 - 副本\code\test_2_6.cpp
+
+1408070876 e:\项目\指针的动态演示 - 副本\code\open_3_1.cpp
+	"show_3_1.cpp"
+	"test_3_1.cpp"
+
+1408071863 e:\项目\指针的动态演示 - 副本\code\show_3_1.cpp
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1408071882 e:\项目\指针的动态演示 - 副本\code\test_3_1.cpp
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1407754230 e:\项目\指针的动态演示 - 副本\code\open_3_3.cpp
+	"show_3_3.cpp"
+	"test_3_3.cpp"
+
+1404654624 e:\项目\指针的动态演示 - 副本\code\show_3_3.cpp
+	<graphics.h>
+
+1404789823 e:\项目\指针的动态演示 - 副本\code\test_3_3.cpp
+
+1404082906 e:\项目\指针的动态演示 - 副本\code\open_3_4.cpp
+	"show_3_4_1.cpp"
+	"show_3_4_2.cpp"
+	"test_3_4.cpp"
+
+1404081861 e:\项目\指针的动态演示 - 副本\code\show_3_4_1.cpp
+	<stdio.h>
+	<string.h>
+
+1404081868 e:\项目\指针的动态演示 - 副本\code\show_3_4_2.cpp
+	<stdio.h>
+	<string.h>
+
+1404081875 e:\项目\指针的动态演示 - 副本\code\test_3_4.cpp
+	<stdio.h>
+	<string.h>
+
+1404638467 e:\项目\指针的动态演示 - 副本\code\open_3_5.cpp
+	"show_3_5.cpp"
+
+1404638540 e:\项目\指针的动态演示 - 副本\code\show_3_5.cpp
+	<stdio.h>
+	<string.h>
+
+1407754210 e:\项目\指针的动态演示 - 副本\code\open_3_6.cpp
+	"show_3_6.cpp"
+	"test_3_6.cpp"
+
+1407753177 e:\项目\指针的动态演示 - 副本\code\show_3_6.cpp
+	<stdio.h>
+
+1407753173 e:\项目\指针的动态演示 - 副本\code\test_3_6.cpp
+	<stdio.h>
+
+1408547222 e:\项目\指针的动态演示 - 副本\code\open_3_7.cpp
+	"show_3_7.cpp"
+	"test_3_7.cpp"
+
+1408547007 e:\项目\指针的动态演示 - 副本\code\show_3_7.cpp
+	<stdio.h>
+
+1408547003 e:\项目\指针的动态演示 - 副本\code\test_3_7.cpp
+	<stdio.h>
+
+1408201228 e:\项目\指针的动态演示 - 副本\code\open_3_8.cpp
+	"show_3_8_1.cpp"
+	"show_3_8_2.cpp"
+	"show_3_8_3.cpp"
+	"test_3_8.cpp"
+
+1408083050 e:\项目\指针的动态演示 - 副本\code\show_3_8_1.cpp
+	<stdio.h>
+	<stdio.h>
+
+1408083107 e:\项目\指针的动态演示 - 副本\code\show_3_8_2.cpp
+	<stdio.h>
+	<stdio.h>
+
+1408082905 e:\项目\指针的动态演示 - 副本\code\show_3_8_3.cpp
+	<stdio.h>
+	<stdio.h>
+
+1408084868 e:\项目\指针的动态演示 - 副本\code\test_3_8.cpp
+	<stdio.h>
+	<stdio.h>
+
+1404790484 e:\项目\指针的动态演示 - 副本\code\open_4_1.cpp
+	"show_4_1.cpp"
+	"test_4_1.cpp"
+
+1404700011 e:\项目\指针的动态演示 - 副本\code\show_4_1.cpp
+	<stdio.h>
+
+1404790660 e:\项目\指针的动态演示 - 副本\code\test_4_1.cpp
+	<stdio.h>
+
+1407799099 e:\项目\指针的动态演示 - 副本\code\open_4_2.cpp
+	"show_4_2.cpp"
+	"test_4_2.cpp"
+
+1408031800 e:\项目\指针的动态演示 - 副本\code\show_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+
+1408114811 e:\项目\指针的动态演示 - 副本\code\test_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+
+1408201915 e:\项目\指针的动态演示 - 副本\code\open_4_3.cpp
+	"show_4_3.cpp"
+	"test_4_3.cpp"
+
+1408175738 e:\项目\指针的动态演示 - 副本\code\show_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+
+1408201964 e:\项目\指针的动态演示 - 副本\code\test_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+
+1407753283 e:\项目\指针的动态演示 - 副本\code\open_4_5.cpp
+	"show_4_5.cpp"
+	"test_4_5.cpp"
+
+1407753401 e:\项目\指针的动态演示 - 副本\code\show_4_5.cpp
+	<stdio.h>
+
+1407753409 e:\项目\指针的动态演示 - 副本\code\test_4_5.cpp
+	<stdio.h>
+
+1409669625 e:\项目\指针的动态演示 - 副本\code\open_4_6.cpp
+	"show_4_6.cpp"
+	"test_4_6.cpp"
+
+1409669568 e:\项目\指针的动态演示 - 副本\code\show_4_6.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1409669643 e:\项目\指针的动态演示 - 副本\code\test_4_6.cpp
+	<stdio.h>
+
+1407754343 e:\项目\指针的动态演示 - 副本\code\open_4_7.cpp
+	"show_4_7.cpp"
+	"test_4_7.cpp"
+
+1405500057 e:\项目\指针的动态演示 - 副本\code\show_4_7.cpp
+
+1405500147 e:\项目\指针的动态演示 - 副本\code\test_4_7.cpp
+
+1415290583 e:\项目\指针的动态演示 - 副本\code.h
+	"graphics.h"
+	"data_definition.h"
+
+1415287718 source:e:\项目\指针的动态演示 - 副本\code\open_1_1.cpp
+	"..\code.h"
+
+1415287886 source:e:\项目\指针的动态演示 - 副本\code\open_1_2.cpp
+	"..\code.h"
+
+1415287892 source:e:\项目\指针的动态演示 - 副本\code\open_1_3.cpp
+	"..\code.h"
+
+1415287897 source:e:\项目\指针的动态演示 - 副本\code\open_1_4.cpp
+	"..\code.h"
+
+1415287906 source:e:\项目\指针的动态演示 - 副本\code\open_1_5.cpp
+	"..\code.h"
+
+1415287911 source:e:\项目\指针的动态演示 - 副本\code\open_1_6.cpp
+	"..\code.h"
+
+1415287917 source:e:\项目\指针的动态演示 - 副本\code\open_2_1.cpp
+	"..\code.h"
+
+1415287925 source:e:\项目\指针的动态演示 - 副本\code\open_2_2.cpp
+	"..\code.h"
+
+1415287930 source:e:\项目\指针的动态演示 - 副本\code\open_2_3.cpp
+	"..\code.h"
+
+1415287939 source:e:\项目\指针的动态演示 - 副本\code\open_2_5.cpp
+	"..\code.h"
+
+1415287944 source:e:\项目\指针的动态演示 - 副本\code\open_2_6.cpp
+	"..\code.h"
+
+1415287953 source:e:\项目\指针的动态演示 - 副本\code\open_3_1.cpp
+	"..\code.h"
+
+1415287960 source:e:\项目\指针的动态演示 - 副本\code\open_3_3.cpp
+	"..\code.h"
+
+1415287968 source:e:\项目\指针的动态演示 - 副本\code\open_3_4.cpp
+	"..\code.h"
+
+1415287976 source:e:\项目\指针的动态演示 - 副本\code\open_3_5.cpp
+	"..\code.h"
+
+1415287982 source:e:\项目\指针的动态演示 - 副本\code\open_3_6.cpp
+	"..\code.h"
+
+1415288003 source:e:\项目\指针的动态演示 - 副本\code\open_3_7.cpp
+	"..\code.h"
+
+1415288007 source:e:\项目\指针的动态演示 - 副本\code\open_3_8.cpp
+	"..\code.h"
+
+1415288015 source:e:\项目\指针的动态演示 - 副本\code\open_4_1.cpp
+	"..\code.h"
+
+1415288028 source:e:\项目\指针的动态演示 - 副本\code\open_4_2.cpp
+	"..\code.h"
+
+1415289737 source:e:\项目\指针的动态演示 - 副本\code\open_4_3.cpp
+	"..\code.h"
+
+1415288042 source:e:\项目\指针的动态演示 - 副本\code\open_4_5.cpp
+	"..\code.h"
+
+1415288048 source:e:\项目\指针的动态演示 - 副本\code\open_4_6.cpp
+	"..\code.h"
+
+1415288052 source:e:\项目\指针的动态演示 - 副本\code\open_4_7.cpp
+	"..\code.h"
+
+1415287723 source:e:\项目\指针的动态演示 - 副本\code\show_1_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288063 source:e:\项目\指针的动态演示 - 副本\code\show_1_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288090 source:e:\项目\指针的动态演示 - 副本\code\show_1_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288102 source:e:\项目\指针的动态演示 - 副本\code\show_1_4.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288110 source:e:\项目\指针的动态演示 - 副本\code\show_1_5.cpp
+	"..\code.h"
+
+1415288118 source:e:\项目\指针的动态演示 - 副本\code\show_1_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288150 source:e:\项目\指针的动态演示 - 副本\code\show_2_1.cpp
+	"..\code.h"
+
+1415288163 source:e:\项目\指针的动态演示 - 副本\code\show_2_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288170 source:e:\项目\指针的动态演示 - 副本\code\show_2_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288174 source:e:\项目\指针的动态演示 - 副本\code\show_2_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288180 source:e:\项目\指针的动态演示 - 副本\code\show_2_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288191 source:e:\项目\指针的动态演示 - 副本\code\show_3_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415288201 source:e:\项目\指针的动态演示 - 副本\code\show_3_3.cpp
+	"..\code.h"
+
+1415288209 source:e:\项目\指针的动态演示 - 副本\code\show_3_4_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288215 source:e:\项目\指针的动态演示 - 副本\code\show_3_4_2.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288221 source:e:\项目\指针的动态演示 - 副本\code\show_3_5.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288227 source:e:\项目\指针的动态演示 - 副本\code\show_3_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288233 source:e:\项目\指针的动态演示 - 副本\code\show_3_7.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288276 source:e:\项目\指针的动态演示 - 副本\code\show_3_8_1.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288282 source:e:\项目\指针的动态演示 - 副本\code\show_3_8_2.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288288 source:e:\项目\指针的动态演示 - 副本\code\show_3_8_3.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288296 source:e:\项目\指针的动态演示 - 副本\code\show_4_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288303 source:e:\项目\指针的动态演示 - 副本\code\show_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415289715 source:e:\项目\指针的动态演示 - 副本\code\show_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+	"../code.h"
+
+1415288320 source:e:\项目\指针的动态演示 - 副本\code\show_4_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288329 source:e:\项目\指针的动态演示 - 副本\code\show_4_6.cpp
+	<stdio.h>
+	<stdlib.h>
+	"..\code.h"
+
+1415288342 source:e:\项目\指针的动态演示 - 副本\code\show_4_7.cpp
+	"..\code.h"
+
+1415288347 source:e:\项目\指针的动态演示 - 副本\code\test_1_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288353 source:e:\项目\指针的动态演示 - 副本\code\test_1_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288359 source:e:\项目\指针的动态演示 - 副本\code\test_1_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288373 source:e:\项目\指针的动态演示 - 副本\code\test_1_4.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288378 source:e:\项目\指针的动态演示 - 副本\code\test_1_5.cpp
+	"..\code.h"
+
+1415288385 source:e:\项目\指针的动态演示 - 副本\code\test_1_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288390 source:e:\项目\指针的动态演示 - 副本\code\test_2_1.cpp
+	"..\code.h"
+
+1415288402 source:e:\项目\指针的动态演示 - 副本\code\test_2_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288409 source:e:\项目\指针的动态演示 - 副本\code\test_2_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288420 source:e:\项目\指针的动态演示 - 副本\code\test_2_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288428 source:e:\项目\指针的动态演示 - 副本\code\test_2_6.cpp
+	"..\code.h"
+
+1415288434 source:e:\项目\指针的动态演示 - 副本\code\test_3_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415288441 source:e:\项目\指针的动态演示 - 副本\code\test_3_3.cpp
+	"..\code.h"
+
+1415288447 source:e:\项目\指针的动态演示 - 副本\code\test_3_4.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288455 source:e:\项目\指针的动态演示 - 副本\code\test_3_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288463 source:e:\项目\指针的动态演示 - 副本\code\test_3_7.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288468 source:e:\项目\指针的动态演示 - 副本\code\test_3_8.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288478 source:e:\项目\指针的动态演示 - 副本\code\test_4_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288484 source:e:\项目\指针的动态演示 - 副本\code\test_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415288491 source:e:\项目\指针的动态演示 - 副本\code\test_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415288499 source:e:\项目\指针的动态演示 - 副本\code\test_4_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288505 source:e:\项目\指针的动态演示 - 副本\code\test_4_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415290180 source:e:\项目\指针的动态演示 - 副本\code\test_4_7.cpp
+	"..\code.h"
+
+1415290350 source:e:\项目\指针的动态演示 - 副本\basic.cpp
+	"code.h"
+
+1415290345 source:e:\项目\指针的动态演示 - 副本\menu.cpp
+	<stdio.h>
+	"code.h"
+
+1415287718 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_1_1.cpp
+	"..\code.h"
+
+1415291023 e:\项目\指针的动态演示 - 副本 - 副本\code.h
+	"graphics.h"
+	"basic.h"
+	"data_definition.h"
+
+1415290967 e:\项目\指针的动态演示 - 副本 - 副本\basic.h
+	"graphics.h"
+	"code.h"
+	"data_definition.h"
+
+1407503011 e:\项目\指针的动态演示 - 副本 - 副本\data_definition.h
+
+1415287886 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_1_2.cpp
+	"..\code.h"
+
+1415287892 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_1_3.cpp
+	"..\code.h"
+
+1415287897 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_1_4.cpp
+	"..\code.h"
+
+1415287906 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_1_5.cpp
+	"..\code.h"
+
+1415287911 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_1_6.cpp
+	"..\code.h"
+
+1415287917 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_2_1.cpp
+	"..\code.h"
+
+1415287925 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_2_2.cpp
+	"..\code.h"
+
+1415287930 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_2_3.cpp
+	"..\code.h"
+
+1415287939 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_2_5.cpp
+	"..\code.h"
+
+1415287944 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_2_6.cpp
+	"..\code.h"
+
+1415287953 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_3_1.cpp
+	"..\code.h"
+
+1415287960 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_3_3.cpp
+	"..\code.h"
+
+1415287968 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_3_4.cpp
+	"..\code.h"
+
+1415287976 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_3_5.cpp
+	"..\code.h"
+
+1415287982 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_3_6.cpp
+	"..\code.h"
+
+1415288003 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_3_7.cpp
+	"..\code.h"
+
+1415288007 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_3_8.cpp
+	"..\code.h"
+
+1415288015 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_4_1.cpp
+	"..\code.h"
+
+1415288028 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_4_2.cpp
+	"..\code.h"
+
+1415289737 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_4_3.cpp
+	"..\code.h"
+
+1415288042 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_4_5.cpp
+	"..\code.h"
+
+1415288048 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_4_6.cpp
+	"..\code.h"
+
+1415288052 source:e:\项目\指针的动态演示 - 副本 - 副本\code\open_4_7.cpp
+	"..\code.h"
+
+1415287723 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_1_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288063 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_1_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288090 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_1_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288102 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_1_4.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288110 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_1_5.cpp
+	"..\code.h"
+
+1415288118 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_1_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288150 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_2_1.cpp
+	"..\code.h"
+
+1415288163 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_2_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288170 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_2_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288174 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_2_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288180 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_2_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288191 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415288201 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_3.cpp
+	"..\code.h"
+
+1415288209 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_4_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288215 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_4_2.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288221 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_5.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288227 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288233 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_7.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288276 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_8_1.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288282 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_8_2.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288288 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_3_8_3.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288296 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_4_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288303 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415289715 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+	"../code.h"
+
+1415288320 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_4_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288329 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_4_6.cpp
+	<stdio.h>
+	<stdlib.h>
+	"..\code.h"
+
+1415288342 source:e:\项目\指针的动态演示 - 副本 - 副本\code\show_4_7.cpp
+	"..\code.h"
+
+1415288347 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_1_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288353 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_1_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288359 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_1_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288373 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_1_4.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288378 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_1_5.cpp
+	"..\code.h"
+
+1415288385 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_1_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288390 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_2_1.cpp
+	"..\code.h"
+
+1415288402 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_2_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288409 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_2_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288420 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_2_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288428 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_2_6.cpp
+	"..\code.h"
+
+1415288434 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_3_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415288441 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_3_3.cpp
+	"..\code.h"
+
+1415288447 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_3_4.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288455 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_3_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288463 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_3_7.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288468 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_3_8.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288478 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_4_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288484 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415288491 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415288499 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_4_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288505 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_4_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415290180 source:e:\项目\指针的动态演示 - 副本 - 副本\code\test_4_7.cpp
+	"..\code.h"
+
+1415290998 source:e:\项目\指针的动态演示 - 副本 - 副本\main.cpp
+	<time.h>
+	"basic.h"
+	"code.h"
+
+1415291013 source:e:\项目\指针的动态演示 - 副本 - 副本\menu.cpp
+	<stdio.h>
+	"basic.h"
+
+1415291129 source:e:\项目\指针的动态演示 - 新框架\basic.cpp
+	"basic.h"
+
+1415290967 e:\项目\指针的动态演示 - 新框架\basic.h
+	"graphics.h"
+	"code.h"
+	"data_definition.h"
+
+1415291023 e:\项目\指针的动态演示 - 新框架\code.h
+	"graphics.h"
+	"basic.h"
+	"data_definition.h"
+
+1407503011 e:\项目\指针的动态演示 - 新框架\data_definition.h
+
+1415287718 source:e:\项目\指针的动态演示 - 新框架\code\open_1_1.cpp
+	"..\code.h"
+
+1415287886 source:e:\项目\指针的动态演示 - 新框架\code\open_1_2.cpp
+	"..\code.h"
+
+1415287892 source:e:\项目\指针的动态演示 - 新框架\code\open_1_3.cpp
+	"..\code.h"
+
+1415287897 source:e:\项目\指针的动态演示 - 新框架\code\open_1_4.cpp
+	"..\code.h"
+
+1415287906 source:e:\项目\指针的动态演示 - 新框架\code\open_1_5.cpp
+	"..\code.h"
+
+1415287911 source:e:\项目\指针的动态演示 - 新框架\code\open_1_6.cpp
+	"..\code.h"
+
+1415287917 source:e:\项目\指针的动态演示 - 新框架\code\open_2_1.cpp
+	"..\code.h"
+
+1415287925 source:e:\项目\指针的动态演示 - 新框架\code\open_2_2.cpp
+	"..\code.h"
+
+1415287930 source:e:\项目\指针的动态演示 - 新框架\code\open_2_3.cpp
+	"..\code.h"
+
+1415287939 source:e:\项目\指针的动态演示 - 新框架\code\open_2_5.cpp
+	"..\code.h"
+
+1415287944 source:e:\项目\指针的动态演示 - 新框架\code\open_2_6.cpp
+	"..\code.h"
+
+1415287953 source:e:\项目\指针的动态演示 - 新框架\code\open_3_1.cpp
+	"..\code.h"
+
+1415287960 source:e:\项目\指针的动态演示 - 新框架\code\open_3_3.cpp
+	"..\code.h"
+
+1415287968 source:e:\项目\指针的动态演示 - 新框架\code\open_3_4.cpp
+	"..\code.h"
+
+1415287976 source:e:\项目\指针的动态演示 - 新框架\code\open_3_5.cpp
+	"..\code.h"
+
+1415287982 source:e:\项目\指针的动态演示 - 新框架\code\open_3_6.cpp
+	"..\code.h"
+
+1415288003 source:e:\项目\指针的动态演示 - 新框架\code\open_3_7.cpp
+	"..\code.h"
+
+1415288007 source:e:\项目\指针的动态演示 - 新框架\code\open_3_8.cpp
+	"..\code.h"
+
+1415288015 source:e:\项目\指针的动态演示 - 新框架\code\open_4_1.cpp
+	"..\code.h"
+
+1415288028 source:e:\项目\指针的动态演示 - 新框架\code\open_4_2.cpp
+	"..\code.h"
+
+1415289737 source:e:\项目\指针的动态演示 - 新框架\code\open_4_3.cpp
+	"..\code.h"
+
+1415288042 source:e:\项目\指针的动态演示 - 新框架\code\open_4_5.cpp
+	"..\code.h"
+
+1415288048 source:e:\项目\指针的动态演示 - 新框架\code\open_4_6.cpp
+	"..\code.h"
+
+1415288052 source:e:\项目\指针的动态演示 - 新框架\code\open_4_7.cpp
+	"..\code.h"
+
+1415287723 source:e:\项目\指针的动态演示 - 新框架\code\show_1_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288063 source:e:\项目\指针的动态演示 - 新框架\code\show_1_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288090 source:e:\项目\指针的动态演示 - 新框架\code\show_1_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288102 source:e:\项目\指针的动态演示 - 新框架\code\show_1_4.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288110 source:e:\项目\指针的动态演示 - 新框架\code\show_1_5.cpp
+	"..\code.h"
+
+1415288118 source:e:\项目\指针的动态演示 - 新框架\code\show_1_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288150 source:e:\项目\指针的动态演示 - 新框架\code\show_2_1.cpp
+	"..\code.h"
+
+1415288163 source:e:\项目\指针的动态演示 - 新框架\code\show_2_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288170 source:e:\项目\指针的动态演示 - 新框架\code\show_2_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288174 source:e:\项目\指针的动态演示 - 新框架\code\show_2_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288180 source:e:\项目\指针的动态演示 - 新框架\code\show_2_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288191 source:e:\项目\指针的动态演示 - 新框架\code\show_3_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415288201 source:e:\项目\指针的动态演示 - 新框架\code\show_3_3.cpp
+	"..\code.h"
+
+1415288209 source:e:\项目\指针的动态演示 - 新框架\code\show_3_4_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288215 source:e:\项目\指针的动态演示 - 新框架\code\show_3_4_2.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288221 source:e:\项目\指针的动态演示 - 新框架\code\show_3_5.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288227 source:e:\项目\指针的动态演示 - 新框架\code\show_3_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288233 source:e:\项目\指针的动态演示 - 新框架\code\show_3_7.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288276 source:e:\项目\指针的动态演示 - 新框架\code\show_3_8_1.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288282 source:e:\项目\指针的动态演示 - 新框架\code\show_3_8_2.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288288 source:e:\项目\指针的动态演示 - 新框架\code\show_3_8_3.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288296 source:e:\项目\指针的动态演示 - 新框架\code\show_4_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288303 source:e:\项目\指针的动态演示 - 新框架\code\show_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415289715 source:e:\项目\指针的动态演示 - 新框架\code\show_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+	"../code.h"
+
+1415288320 source:e:\项目\指针的动态演示 - 新框架\code\show_4_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288329 source:e:\项目\指针的动态演示 - 新框架\code\show_4_6.cpp
+	<stdio.h>
+	<stdlib.h>
+	"..\code.h"
+
+1415288342 source:e:\项目\指针的动态演示 - 新框架\code\show_4_7.cpp
+	"..\code.h"
+
+1415288347 source:e:\项目\指针的动态演示 - 新框架\code\test_1_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288353 source:e:\项目\指针的动态演示 - 新框架\code\test_1_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288359 source:e:\项目\指针的动态演示 - 新框架\code\test_1_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288373 source:e:\项目\指针的动态演示 - 新框架\code\test_1_4.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288378 source:e:\项目\指针的动态演示 - 新框架\code\test_1_5.cpp
+	"..\code.h"
+
+1415288385 source:e:\项目\指针的动态演示 - 新框架\code\test_1_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288390 source:e:\项目\指针的动态演示 - 新框架\code\test_2_1.cpp
+	"..\code.h"
+
+1415288402 source:e:\项目\指针的动态演示 - 新框架\code\test_2_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288409 source:e:\项目\指针的动态演示 - 新框架\code\test_2_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288420 source:e:\项目\指针的动态演示 - 新框架\code\test_2_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288428 source:e:\项目\指针的动态演示 - 新框架\code\test_2_6.cpp
+	"..\code.h"
+
+1415288434 source:e:\项目\指针的动态演示 - 新框架\code\test_3_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415288441 source:e:\项目\指针的动态演示 - 新框架\code\test_3_3.cpp
+	"..\code.h"
+
+1415288447 source:e:\项目\指针的动态演示 - 新框架\code\test_3_4.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288455 source:e:\项目\指针的动态演示 - 新框架\code\test_3_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288463 source:e:\项目\指针的动态演示 - 新框架\code\test_3_7.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288468 source:e:\项目\指针的动态演示 - 新框架\code\test_3_8.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288478 source:e:\项目\指针的动态演示 - 新框架\code\test_4_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288484 source:e:\项目\指针的动态演示 - 新框架\code\test_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415288491 source:e:\项目\指针的动态演示 - 新框架\code\test_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415288499 source:e:\项目\指针的动态演示 - 新框架\code\test_4_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288505 source:e:\项目\指针的动态演示 - 新框架\code\test_4_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415290180 source:e:\项目\指针的动态演示 - 新框架\code\test_4_7.cpp
+	"..\code.h"
+
+1415290998 source:e:\项目\指针的动态演示 - 新框架\main.cpp
+	<time.h>
+	"basic.h"
+	"code.h"
+
+1415291013 source:e:\项目\指针的动态演示 - 新框架\menu.cpp
+	<stdio.h>
+	"basic.h"
+
+1415291129 source:e:\项目\指针的动态演示 v2.0\basic.cpp
+	"basic.h"
+
+1415290967 e:\项目\指针的动态演示 v2.0\basic.h
+	"graphics.h"
+	"code.h"
+	"data_definition.h"
+
+1415291023 e:\项目\指针的动态演示 v2.0\code.h
+	"graphics.h"
+	"basic.h"
+	"data_definition.h"
+
+1407503011 e:\项目\指针的动态演示 v2.0\data_definition.h
+
+1415622539 source:e:\项目\指针的动态演示 v2.0\code\open_1_1.cpp
+	"..\code.h"
+
+1415287886 source:e:\项目\指针的动态演示 v2.0\code\open_1_2.cpp
+	"..\code.h"
+
+1415287892 source:e:\项目\指针的动态演示 v2.0\code\open_1_3.cpp
+	"..\code.h"
+
+1415287897 source:e:\项目\指针的动态演示 v2.0\code\open_1_4.cpp
+	"..\code.h"
+
+1415287906 source:e:\项目\指针的动态演示 v2.0\code\open_1_5.cpp
+	"..\code.h"
+
+1415287911 source:e:\项目\指针的动态演示 v2.0\code\open_1_6.cpp
+	"..\code.h"
+
+1415287917 source:e:\项目\指针的动态演示 v2.0\code\open_2_1.cpp
+	"..\code.h"
+
+1415287925 source:e:\项目\指针的动态演示 v2.0\code\open_2_2.cpp
+	"..\code.h"
+
+1415287930 source:e:\项目\指针的动态演示 v2.0\code\open_2_3.cpp
+	"..\code.h"
+
+1415287939 source:e:\项目\指针的动态演示 v2.0\code\open_2_5.cpp
+	"..\code.h"
+
+1415287944 source:e:\项目\指针的动态演示 v2.0\code\open_2_6.cpp
+	"..\code.h"
+
+1415287953 source:e:\项目\指针的动态演示 v2.0\code\open_3_1.cpp
+	"..\code.h"
+
+1415287960 source:e:\项目\指针的动态演示 v2.0\code\open_3_3.cpp
+	"..\code.h"
+
+1415287968 source:e:\项目\指针的动态演示 v2.0\code\open_3_4.cpp
+	"..\code.h"
+
+1415287976 source:e:\项目\指针的动态演示 v2.0\code\open_3_5.cpp
+	"..\code.h"
+
+1415287982 source:e:\项目\指针的动态演示 v2.0\code\open_3_6.cpp
+	"..\code.h"
+
+1415288003 source:e:\项目\指针的动态演示 v2.0\code\open_3_7.cpp
+	"..\code.h"
+
+1415288007 source:e:\项目\指针的动态演示 v2.0\code\open_3_8.cpp
+	"..\code.h"
+
+1415288015 source:e:\项目\指针的动态演示 v2.0\code\open_4_1.cpp
+	"..\code.h"
+
+1415288028 source:e:\项目\指针的动态演示 v2.0\code\open_4_2.cpp
+	"..\code.h"
+
+1415289737 source:e:\项目\指针的动态演示 v2.0\code\open_4_3.cpp
+	"..\code.h"
+
+1415288042 source:e:\项目\指针的动态演示 v2.0\code\open_4_5.cpp
+	"..\code.h"
+
+1415288048 source:e:\项目\指针的动态演示 v2.0\code\open_4_6.cpp
+	"..\code.h"
+
+1415288052 source:e:\项目\指针的动态演示 v2.0\code\open_4_7.cpp
+	"..\code.h"
+
+1415287723 source:e:\项目\指针的动态演示 v2.0\code\show_1_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288063 source:e:\项目\指针的动态演示 v2.0\code\show_1_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288090 source:e:\项目\指针的动态演示 v2.0\code\show_1_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288102 source:e:\项目\指针的动态演示 v2.0\code\show_1_4.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288110 source:e:\项目\指针的动态演示 v2.0\code\show_1_5.cpp
+	"..\code.h"
+
+1415288118 source:e:\项目\指针的动态演示 v2.0\code\show_1_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288150 source:e:\项目\指针的动态演示 v2.0\code\show_2_1.cpp
+	"..\code.h"
+
+1415288163 source:e:\项目\指针的动态演示 v2.0\code\show_2_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288170 source:e:\项目\指针的动态演示 v2.0\code\show_2_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288174 source:e:\项目\指针的动态演示 v2.0\code\show_2_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288180 source:e:\项目\指针的动态演示 v2.0\code\show_2_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288191 source:e:\项目\指针的动态演示 v2.0\code\show_3_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415288201 source:e:\项目\指针的动态演示 v2.0\code\show_3_3.cpp
+	"..\code.h"
+
+1415288209 source:e:\项目\指针的动态演示 v2.0\code\show_3_4_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288215 source:e:\项目\指针的动态演示 v2.0\code\show_3_4_2.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288221 source:e:\项目\指针的动态演示 v2.0\code\show_3_5.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288227 source:e:\项目\指针的动态演示 v2.0\code\show_3_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288233 source:e:\项目\指针的动态演示 v2.0\code\show_3_7.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288276 source:e:\项目\指针的动态演示 v2.0\code\show_3_8_1.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288282 source:e:\项目\指针的动态演示 v2.0\code\show_3_8_2.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288288 source:e:\项目\指针的动态演示 v2.0\code\show_3_8_3.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288296 source:e:\项目\指针的动态演示 v2.0\code\show_4_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288303 source:e:\项目\指针的动态演示 v2.0\code\show_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415289715 source:e:\项目\指针的动态演示 v2.0\code\show_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+	"../code.h"
+
+1415288320 source:e:\项目\指针的动态演示 v2.0\code\show_4_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288329 source:e:\项目\指针的动态演示 v2.0\code\show_4_6.cpp
+	<stdio.h>
+	<stdlib.h>
+	"..\code.h"
+
+1415288342 source:e:\项目\指针的动态演示 v2.0\code\show_4_7.cpp
+	"..\code.h"
+
+1415288347 source:e:\项目\指针的动态演示 v2.0\code\test_1_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288353 source:e:\项目\指针的动态演示 v2.0\code\test_1_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288359 source:e:\项目\指针的动态演示 v2.0\code\test_1_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288373 source:e:\项目\指针的动态演示 v2.0\code\test_1_4.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288378 source:e:\项目\指针的动态演示 v2.0\code\test_1_5.cpp
+	"..\code.h"
+
+1415288385 source:e:\项目\指针的动态演示 v2.0\code\test_1_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288390 source:e:\项目\指针的动态演示 v2.0\code\test_2_1.cpp
+	"..\code.h"
+
+1415288402 source:e:\项目\指针的动态演示 v2.0\code\test_2_2.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288409 source:e:\项目\指针的动态演示 v2.0\code\test_2_3.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288420 source:e:\项目\指针的动态演示 v2.0\code\test_2_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288428 source:e:\项目\指针的动态演示 v2.0\code\test_2_6.cpp
+	"..\code.h"
+
+1415288434 source:e:\项目\指针的动态演示 v2.0\code\test_3_1.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1415288441 source:e:\项目\指针的动态演示 v2.0\code\test_3_3.cpp
+	"..\code.h"
+
+1415288447 source:e:\项目\指针的动态演示 v2.0\code\test_3_4.cpp
+	<stdio.h>
+	<string.h>
+	"..\code.h"
+
+1415288455 source:e:\项目\指针的动态演示 v2.0\code\test_3_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288463 source:e:\项目\指针的动态演示 v2.0\code\test_3_7.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288468 source:e:\项目\指针的动态演示 v2.0\code\test_3_8.cpp
+	<stdio.h>
+	"..\code.h"
+	<stdio.h>
+
+1415288478 source:e:\项目\指针的动态演示 v2.0\code\test_4_1.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288484 source:e:\项目\指针的动态演示 v2.0\code\test_4_2.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415288491 source:e:\项目\指针的动态演示 v2.0\code\test_4_3.cpp
+	<stdio.h>
+	<malloc.h>
+	"..\code.h"
+
+1415288499 source:e:\项目\指针的动态演示 v2.0\code\test_4_5.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415288505 source:e:\项目\指针的动态演示 v2.0\code\test_4_6.cpp
+	<stdio.h>
+	"..\code.h"
+
+1415290180 source:e:\项目\指针的动态演示 v2.0\code\test_4_7.cpp
+	"..\code.h"
+
+1415290998 source:e:\项目\指针的动态演示 v2.0\main.cpp
+	<time.h>
+	"basic.h"
+	"code.h"
+
+1415291013 source:e:\项目\指针的动态演示 v2.0\menu.cpp
+	<stdio.h>
+	"basic.h"
+
